@@ -1,7 +1,7 @@
 {
-    "name": "@bob/fries",
+    "name": "NODERS",
     "version": "0.1.0",
-    "repository": "https://github.com/bobby/fries",
+    "repository": "https://github.com/noders-team/loro-testnet",
     "scripts": {
       "dev": "next dev",
       "build": "next build",
